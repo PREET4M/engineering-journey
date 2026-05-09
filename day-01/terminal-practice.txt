@@ -1,0 +1,7 @@
+pwd
+ls
+cd
+touch
+mkdir
+touch hello.txt
+rm hello.txt
